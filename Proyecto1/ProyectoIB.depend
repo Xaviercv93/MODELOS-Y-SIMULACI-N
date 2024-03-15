@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1707613147 source:c:\users\billy\desktop\ix semestre\modelos\deberesc++\proyectoib\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+	<fstream>
+	"classes.h"
+
+1707613141 c:\users\billy\desktop\ix semestre\modelos\deberesc++\proyectoib\classes.h
+	<stdio.h>
+	<math.h>
+
+1708623094 source:c:\users\billy\desktop\ix semestre\modelos\deberesc++\proyectoiib\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+	<fstream>
+	"classes.h"
+
+1708533861 c:\users\billy\desktop\ix semestre\modelos\deberesc++\proyectoiib\classes.h
+	<stdio.h>
+	<math.h>
+
